@@ -1,4 +1,4 @@
-# Captain Bala
+# Captain user
 
 An interactive portfolio for **Balamurugane R**, Full-Stack Developer — one you
 fly rather than scroll.
